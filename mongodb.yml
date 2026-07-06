@@ -1,5 +1,5 @@
 --- 
-- name: mongodb server creation
+- name: confg mongodb server
   hosts: mongodb
   become: yes
   tasks:
